@@ -15,3 +15,10 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 2. Faça uma função/método que receba uma string como parâmetro e que retorne uma nova string, onde a sequência dos caracteres foi invertida. Dentro da parte principal (main), leia uma string digitada pelo usuário e passe para a função/método criada, imprimindo em seguida a string devolvida. Para esse exercício, pesquise sobre o comportamento e a interação entre dados do tipo `rune` e do tipo `string`.
 3. Crie um tipo chamado `Ponto` que represente um ponto no plano cartesiano, com coordenadas `X` e `Y`. Em seguida, implemente um método chamado `DistanciaOrigem()` que calcule a distância desse ponto até a origem `(0,0)`.
 4. Crie um pacote chamado `geometria` que contenha funções para calcular a área e o perímetro de um retângulo. Em seguida, use esse pacote em um programa principal para calcular a área e o perímetro de um retângulo com dimensões fornecidas pelo usuário.
+
+# AC3
+
+1. Elabore um struct `Contato`, que deve conter os campos nome e e-mail. O struct deve conter um método para alterar o e-mail.
+2. Elabore uma função `adicionarContato`, que recebe um contato e um array com até 5 elementos e inclui o contato no primeiro elemento vazio do array.
+3. Elabore uma função `excluirContato`, que recebe um array de 5 elementos e elimina o último contato válido.
+4. Elabore uma interface por linha de comando na função `main`, que cria um array de 5 elementos e permite a inclusão ou exclusão de contatos.
