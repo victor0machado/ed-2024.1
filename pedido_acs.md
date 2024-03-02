@@ -25,4 +25,5 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 
 # AC4
 
-Implemente em Go a solução recursiva para o problema da Torre de Hanói.
+1. Implemente em Go a solução recursiva para o problema da Torre de Hanói.
+2. Implemente em Go um algoritmo que resolva o seguinte problema: dado um array de números inteiros positivos, considerado ordenado crescentemente, e um valor alvo, encontre um par de números no array cuja soma seja igual ao valor alvo. Se nenhum par for encontrado, retorne um valor `(-1, -1)` indicando que nenhum par foi encontrado. Resolva esse problema com um algoritmo cuja complexidade é O(n).
