@@ -22,3 +22,7 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 2. Elabore uma função `adicionarContato`, que recebe um contato e um array com até 5 elementos e inclui o contato no primeiro elemento vazio do array.
 3. Elabore uma função `excluirContato`, que recebe um array de 5 elementos e elimina o último contato válido.
 4. Elabore uma interface por linha de comando na função `main`, que cria um array de 5 elementos e permite a inclusão ou exclusão de contatos.
+
+# AC4
+
+Implemente em Go a solução recursiva para o problema da Torre de Hanói.
