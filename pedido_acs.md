@@ -37,4 +37,6 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 
 ## AC5
 
-Acessar o convite para o site **Beecrowd** recebido no seu e-mail do Ibmec (matricula@alunos.ibmec.edu.br). Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC5". Suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+Acessar o convite para o site **Beecrowd** recebido no seu e-mail do Ibmec (matricula@alunos.ibmec.edu.br). Caso já tenha uma conta no Beecrowd com seu e-mail pessoal, me envie um e-mail (silva.victor@ibmec.edu.br) ou entre em contato pelo WhatsApp para que eu possa enviar um novo convite.
+
+Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC5". Suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
