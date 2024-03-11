@@ -5,9 +5,10 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 - [Pedidos das ACs](#pedidos-das-acs)
   - [AC1](#ac1)
   - [AC2](#ac2)
-  - [AC3](#ac3)
+  - [AC3 (em sala)](#ac3-em-sala)
   - [AC4](#ac4)
   - [AC5](#ac5)
+  - [AC6 (em sala)](#ac6-em-sala)
 
 ## AC1
 
@@ -23,7 +24,7 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 3. Crie um tipo chamado `Ponto` que represente um ponto no plano cartesiano, com coordenadas `X` e `Y`. Em seguida, implemente um método chamado `DistanciaOrigem()` que calcule a distância desse ponto até a origem `(0,0)`.
 4. Crie um pacote chamado `geometria` que contenha funções para calcular a área e o perímetro de um retângulo. Em seguida, use esse pacote em um programa principal para calcular a área e o perímetro de um retângulo com dimensões fornecidas pelo usuário.
 
-## AC3
+## AC3 (em sala)
 
 1. Elabore um struct `Contato`, que deve conter os campos nome e e-mail. O struct deve conter um método para alterar o e-mail.
 2. Elabore uma função `adicionarContato`, que recebe um contato e um array com até 5 elementos e inclui o contato no primeiro elemento vazio do array.
@@ -40,3 +41,7 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
 Acessar o convite para o site **Beecrowd** recebido no seu e-mail do Ibmec (matricula@alunos.ibmec.edu.br). Caso já tenha uma conta no Beecrowd com seu e-mail pessoal, me envie um e-mail (silva.victor@ibmec.edu.br) ou entre em contato pelo WhatsApp para que eu possa enviar um novo convite.
 
 Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC5". Suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+
+## AC6 (em sala)
+
+Considere duas listas ordenadas, `a` e `b`, com `m` e `n` elementos cada uma, respectivamente. Todos os elementos das listas são distintos, ou seja, se o número `2` está na lista `a`, ele não aparece na lista `b`. Escreva um algoritmo em pseudocódigo que retorne uma única lista ordenada `v`, com `m + n` elementos, contendo todos os elementos de `a` e `b`.
