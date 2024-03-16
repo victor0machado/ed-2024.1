@@ -9,6 +9,7 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
   - [AC4](#ac4)
   - [AC5](#ac5)
   - [AC6 (em sala)](#ac6-em-sala)
+  - [AC7](#ac7)
 
 ## AC1
 
@@ -45,3 +46,9 @@ Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC5". Suba o c
 ## AC6 (em sala)
 
 Considere duas listas ordenadas, `a` e `b`, com `m` e `n` elementos cada uma, respectivamente. Todos os elementos das listas são distintos, ou seja, se o número `2` está na lista `a`, ele não aparece na lista `b`. Escreva um algoritmo em pseudocódigo que retorne uma única lista ordenada `v`, com `m + n` elementos, contendo todos os elementos de `a` e `b`.
+
+## AC7
+
+Acessar o convite para o site **Beecrowd** recebido no seu e-mail do Ibmec (matricula@alunos.ibmec.edu.br). Caso já tenha uma conta no Beecrowd com seu e-mail pessoal, me envie um e-mail (silva.victor@ibmec.edu.br) ou entre em contato pelo WhatsApp para que eu possa enviar um novo convite.
+
+Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC7". Suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
