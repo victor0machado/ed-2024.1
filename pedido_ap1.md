@@ -98,7 +98,7 @@ Após a entrega e avaliação, as equipes receberão um barema contendo o descri
 
 ## Demais informações
 
-* Prazo do projeto, até 28/04/2024, sem possibilidade de adiamento do prazo;
+* Prazo do projeto, até 03/05/2024, sem possibilidade de adiamento do prazo;
 * Submissão do link do GitHub atráves do http://estudante.ibmec.br;
 * Apenas uma pessoa de cada equipe precisa enviar o link;
 * As equipes devem ter no mínimo 3 e no máximo 5 pessoas.
