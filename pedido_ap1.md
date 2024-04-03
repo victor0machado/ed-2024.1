@@ -92,7 +92,8 @@ O não atendimento de algum dos critérios de aceitação pode acarretar em pena
 O sistema será avaliado pelos clientes segundo critérios objetivos e subjetivos, quais sejam:
 
 * Testes funcionais: os testes realizados pelos clientes não apresentam falhas. Ou seja, os requisitos funcionais detalhados acima estão sendo atendidos completamente;
-* Avaliação estática do código: o código é eficiente e bem escrito, está organizado em pacotes com responsabilidades distintas, não apresenta redundâncias e atende às boas práticas de programação.
+* Avaliação estática do código: o código é eficiente e bem escrito, está organizado em pacotes com responsabilidades distintas, não apresenta redundâncias e atende às boas práticas de programação;
+* Tratamento de erros: o projeto apresenta tratamento de erros adequado, analisando casos como produto com dados incompletos ou inválidos, pedidos incompletos, etc.
 
 Após a entrega e avaliação, as equipes receberão um barema contendo o descritivo da avaliação, bem como pesos e detalhamento de cada critério de avaliação.
 
