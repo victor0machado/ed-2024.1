@@ -48,16 +48,17 @@ Para a fila de pedidos, sua equipe deve desenvolver algoritmos para:
 
 O MVP da API deve conter as seguintes rotas:
 
-| **Rota**  | **Método** | **Descrição**                                                                                                 |
-|-----------|------------|---------------------------------------------------------------------------------------------------------------|
-| /produto  |    POST    | Inclui um novo produto na lista, a partir de um JSON contendo as informações necessárias.                     |
-| /produto  |     GET    | Obtém informações de um produto, em formato JSON, a partir da informação do ID único, passado via formulário. |
-| /produto  |   DELETE   | Exclui um produto da lista, a partir da informação do ID único, passado via formulário.                       |
-| /produtos |     GET    | Obtém todos os produtos cadastrados, em formato JSON.                                                         |
-| /pedido   |    POST    | Inclui um novo pedido na fila, a partir de um JSON contendo as informações necessárias.                       |
-| /pedidos  |     GET    | Obtém todos os pedidos ativos no momento, em formato JSON.                                                    |
-| /abrir    |    POST    | Abre a loja para iniciar a expedir os pedidos (ver mais informações abaixo).                                  |
-| /fechar   |    POST    | Fecha a loja, parando de expedir os pedidos (ver mais informações abaixo).                                    |
+| **Rota**  | **Método** | **Descrição**                                                                                                                                                             |
+|-----------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /produto  |    POST    | Inclui um novo produto na lista, a partir de um JSON contendo as informações necessárias.                                                                                 |
+| /produto  |     GET    | Obtém informações de um produto, em formato JSON, a partir da informação do ID único, passado via formulário.                                                             |
+| /produto  |   DELETE   | Exclui um produto da lista, a partir da informação do ID único, passado via formulário.                                                                                   |
+| /produtos |     GET    | Obtém todos os produtos cadastrados, em formato JSON.                                                                                                                     |
+| /pedido   |    POST    | Inclui um novo pedido na fila, a partir de um JSON contendo as informações necessárias.                                                                                   |
+| /pedidos  |     GET    | Obtém todos os pedidos ativos no momento, em formato JSON.                                                                                                                |
+| /abrir    |    POST    | Abre a loja para iniciar a expedir os pedidos (ver mais informações abaixo).                                                                                              |
+| /fechar   |    POST    | Fecha a loja, parando de expedir os pedidos (ver mais informações abaixo).                                                                                                |
+| /metricas |     GET    | Retorna um JSON contendo o número total de produtos cadastrados, o número de pedidos já encerrados, o número de pedidos em andamento e o faturamento total até o momento. |
 
 As rotas `/abrir` e `/fechar` correspondem a um processo automatizado. A rota `/abrir` muda uma _flag_ booleana para `true`, enquanto que a rota `/fechar` muda para `false`.
 
