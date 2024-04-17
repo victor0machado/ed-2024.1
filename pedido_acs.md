@@ -10,6 +10,7 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
   - [AC5](#ac5)
   - [AC6 (em sala)](#ac6-em-sala)
   - [AC7](#ac7)
+  - [AC8](#ac8)
 
 ## AC1
 
@@ -52,3 +53,7 @@ Considere duas listas ordenadas, `a` e `b`, com `m` e `n` elementos cada uma, re
 Acessar o convite para o site **Beecrowd** recebido no seu e-mail do Ibmec (matricula@alunos.ibmec.edu.br). Caso já tenha uma conta no Beecrowd com seu e-mail pessoal, me envie um e-mail (silva.victor@ibmec.edu.br) ou entre em contato pelo WhatsApp para que eu possa enviar um novo convite.
 
 Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC7". Suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+
+## AC8
+
+Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC8" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
