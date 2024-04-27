@@ -11,6 +11,8 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
   - [AC6 (em sala)](#ac6-em-sala)
   - [AC7](#ac7)
   - [AC8](#ac8)
+  - [AC9](#ac9)
+  - [AC10](#ac10)
 
 ## AC1
 
@@ -56,4 +58,27 @@ Na disciplina "Estruturas de Dados", realizar a lista com o nome "AC7". Suba o c
 
 ## AC8
 
-Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC8" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+Teste realizado em sala.
+
+## AC9
+
+Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC9" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+
+## AC10
+
+Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC10" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+
+**Dicas:**
+
+- No exercício 1161, você deverá rodar o código até chegar no EOF (_end of file_). Isso pode ser analisado capturando o erro no `fmt.Scanln`, como no caso abaixo:
+
+  ``` go
+  func leInfo():
+    var x int
+    _, err := fmt.Scanln(&x)
+
+    if err != nil { return }
+  ```
+
+- No exercício 1221, para ser amis eficiente, você pode usar o conceito que diz que todo número não primo `n` possui pelo menos um divisor menor ou igual à raiz quadrada de `n`.
+
