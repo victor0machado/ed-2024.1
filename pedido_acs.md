@@ -13,7 +13,8 @@ Abaixo estão indicados os pedidos para cada AC do curso. Consulte os prazos em 
   - [AC8](#ac8)
   - [AC9](#ac9)
   - [AC10](#ac10)
-  - [AC10](#ac10-1)
+  - [AC11](#ac11)
+  - [AC12](#ac12)
 
 ## AC1
 
@@ -83,6 +84,10 @@ Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome
 
 - No exercício 1221, para ser amis eficiente, você pode usar o conceito que diz que todo número não primo `n` possui pelo menos um divisor menor ou igual à raiz quadrada de `n`.
 
-## AC10
+## AC11
 
 Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC11" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
+
+## AC12
+
+Na disciplina "Estruturas de Dados" do **Beecrowd**, realizar a lista com o nome "AC12" e resolver na ferramenta. Em seguida, suba o código no GitHub como normalmente e envie pelo https://estudante.ibmec.br o link para os exercícios no GitHub.
